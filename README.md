@@ -2,9 +2,9 @@
 
 # 👋 Hey! Nice to see you!
 
-## Hi, I'm Sushant Pandey 👨‍💻
+### Sushant Pandey
 
-**B.Tech CSE Student @ PSIT Kanpur · Developer · Problem Solver**
+**B.Tech CSE @ PSIT Kanpur · Java Developer · Problem Solver**
 
 <p>
 <a href="https://github.com/psushant321">
@@ -23,36 +23,26 @@
 
 </div>
 
----
-
-<img align="right"
-     width="300"
-     src="https://pet.simiyonvinscentsamuel.tech/mascot.svg?status=coding"
-     alt="Sushant coding mascot"/>
-
 ## 🚀 NOW
 
-- 🧠 Solving **DSA problems using Java**
-- ⚙️ Learning **Spring Boot & Backend Development**
-- 🤖 Exploring **AI / ML**
-- 📈 Preparing for upcoming **software placements**
+🧠 **DSA with Java** · ⚙️ **Spring Boot & Backend** · 🤖 **AI / ML** · 🎯 **Preparing for placements**
+
+---
 
 ## 🧑‍💻 BIO
 
 - 🎓 B.Tech Computer Science & Engineering student at **PSIT Kanpur**
-- 💻 Interested in **Software Development & Problem Solving**
-- ☕ Currently focused on **Java + DSA**
-- ⚙️ Exploring **Backend Engineering**
-- 🧠 Curious about **AI / ML**
-- 🚀 I learn by building, debugging and improving
-
-<br clear="right"/>
+- 💻 Focused on **Software Development & Problem Solving**
+- ☕ Currently working with **Java + DSA**
+- ⚙️ Exploring **Spring Boot, REST APIs & Backend Engineering**
+- 🧠 Exploring **AI / ML**
+- 🚀 Learn by building, debugging and improving
 
 ---
 
-## 🛠️ LANGUAGES & TOOLS
+## 🛠️ TECH STACK
 
-<p align="left">
+<p>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -64,31 +54,31 @@
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
 </p>
 
-### 🐍 Python Libraries
+### 🐍 Python
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-
-</p>
+`NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn`
 
 ---
 
-## 🛡️ FEATURED PROJECT
+## 🔨 CURRENTLY BUILDING
 
-### ScamShield
+### 🛡️ ScamShield
 
-> A personal project focused on detecting and protecting users from online scams.
+A personal backend-focused project for detecting and protecting users from online scams.
 
-**Focus:** `Spring Boot` · `Java` · `PostgreSQL` · `REST API`
+**Stack**
+
+`Java` · `Spring Boot` · `PostgreSQL` · `REST API`
+
+**Focus**
+
+`Backend Architecture` · `API Development` · `Database Design` · `Security`
 
 🚧 **Currently building & improving**
 
@@ -96,15 +86,19 @@
 
 ## 🧩 DSA JOURNEY
 
-Currently solving problems in **Java** and strengthening problem-solving fundamentals.
+Currently solving **DSA problems in Java** and strengthening problem-solving fundamentals.
 
-`Arrays` · `Strings` · `Hashing` · `Two Pointers` · `Sliding Window`
+**Core Topics**
 
-`Binary Search` · `Stack` · `Queue` · `Linked List` · `Trees` · `Dynamic Programming`
+`Arrays` · `Strings` · `Hashing` · `Two Pointers`
+
+`Sliding Window` · `Binary Search` · `Stack` · `Queue`
+
+`Linked List` · `Trees` · `Dynamic Programming`
 
 ---
 
-## 🧩 LEETCODE JOURNEY
+## 💻 LEETCODE
 
 <div align="center">
 
@@ -116,7 +110,24 @@ Currently solving problems in **Java** and strengthening problem-solving fundame
 
 </div>
 
-> ⚡ Solving problems consistently and improving my DSA skills with Java.
+<p align="center">
+⚡ Solving problems consistently and improving my DSA skills with Java.
+</p>
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+- 🥇 Winner — **TechExpo**, PSIT Kanpur
+- 🥇 Winner — **Protech**, PSIT Kanpur
+- 🚀 Cleared **Internal Hackathon for Smart India Hackathon**
+- 💻 Building a consistent **DSA + LeetCode** problem-solving journey
+
+---
+
+## 🌐 LANGUAGES
+
+🇬🇧 **English** ★★★★☆ &nbsp;&nbsp; 🇮🇳 **Hindi** ★★★★★
 
 ---
 
@@ -130,7 +141,7 @@ Currently solving problems in **Java** and strengthening problem-solving fundame
 
 <img src="https://github-readme-stats.vercel.app/api?username=psushant321&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<br>
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=psushant321&theme=tokyonight&hide_border=true"/>
 
@@ -142,7 +153,7 @@ Currently solving problems in **Java** and strengthening problem-solving fundame
 
 <div align="center">
 
-### 💭 `Think → Code → Debug → Improve`
+### `Think → Code → Debug → Improve`
 
 **Thanks for visiting my profile! 🚀**
 
